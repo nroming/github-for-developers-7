@@ -1,5 +1,5 @@
-Name: Niklas Roming
-born in Eisenach, Germany
-likes Cordon bleu
-hobby is coding
+**Name** Niklas Roming
+**from** Eisenach, Germany
+*Favorite meal** Cordon bleu
+**Hobby** coding
 **Favorite color** black
